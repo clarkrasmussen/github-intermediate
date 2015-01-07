@@ -1,6 +1,8 @@
-GitHub Intermediate
+#GitHub Intermediate
+Practicing using Git on the Command Line
 
+## What is this?
+This project is a test
 
-There be some stuff here.
-
-And here.
+## How do you help?
+Fork this prokect and send a pull request.
